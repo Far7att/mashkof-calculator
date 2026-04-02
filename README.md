@@ -1,2 +1,0 @@
-# mashkof-calculator
-Maskof cal
